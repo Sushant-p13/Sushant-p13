@@ -1,8 +1,13 @@
-Hi 👋, I’m Sushant Patil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+                                                      Hi 👋, I’m Sushant Patil
+
+
+👀 I’m interested in  Data Analytics 
+Completed PG in Big Data Analytics.
+ 
+I’m looking for full time opportunity in Data Analytics.
+
+ Skilled in Advanced Excel , Power BI, Python, SQL, Big Data Technologies.
+ 
 - www.linkedin.com/in/i-sushant-patil
 
 <!---
